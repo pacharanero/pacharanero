@@ -1,5 +1,9 @@
 # Marcus Baw
 
+![GitHub User's stars](https://img.shields.io/github/stars/pacharanero)
+![GitHub followers](https://img.shields.io/github/followers/pacharanero)
+![Bluesky followers](https://img.shields.io/bluesky/followers/marcusbaw.com)
+
 GP, Clinical Informatician, and Software Developer working at the [Royal College of Paediatrics and Child Health](https://www.rcpch.ac.uk/) in London. Based in Yorkshire, UK.
 
 I believe open source is an ethical imperative in medicine. Healthcare software affects people's lives directly - it should be transparent, auditable, and built in the open. Not as a nice-to-have, but as a fundamental requirement.
@@ -13,6 +17,8 @@ I'm an "NHS General Hacktitioner" - combining clinical work with building digita
 I also run [Open Health Hub](https://openhealthhub.org) - a community forum for open discussion about anything health tech.
 
 ### Everything Digital Health YouTube Channel
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDtJ8FbTLh5YJRsyaywqbSw)
 
 In 2025 I started a YouTube channel, [Everything Digital Health](https://www.youtube.com/@EverythingDigitalHealth), where I share honest commentary on NHS technology and digital health. We cover current health tech news stories, archive the knowledge of retuired GP IT colleagues, and campaign for better digital infrastructure in the NHS.
 
