@@ -50,6 +50,12 @@ challenge, but it's one worth solving.
   licensing restrictions and complexity of other terminologies. Medicine
   needs terminologies that are actually open.
 
+**[sct](https://github.com/pacharanero/sct)**
+
+- A local-first SNOMED CT toolchain for building portable NDJSON, SQLite,
+  Parquet, FHIR terminology server, and cross-terminology mapping artefacts
+  from licensed RF2 releases.
+
 ## Community
 
 I run [Open Health Hub](https://openhealthhub.org) - a community forum
