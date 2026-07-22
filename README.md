@@ -1,75 +1,46 @@
 # Marcus Baw
 
-GP, Clinical Informatician, and freelance Software Developer working primarily at the
-[Royal College of Paediatrics and Child Health](https://www.rcpch.ac.uk/)
-in London. Based in Yorkshire, UK.
+GP, Clinical Informatician, and freelance Software Developer working primarily at the [Royal College of Paediatrics and Child Health](https://www.rcpch.ac.uk/) in London. Based in Yorkshire, UK.
 
-I believe open source is an ethical imperative in medicine. Healthcare
-software affects people's lives directly - it should be transparent,
-auditable, and built in the open. Not as a nice-to-have, but as a
-fundamental requirement.
+I believe open source is an ethical imperative in medicine. Healthcare software affects people's lives directly - it should be transparent, auditable, and built in the open. Not as a nice-to-have, but as a fundamental requirement.
 
-I make videos about NHS technology and digital health reform on my
-YouTube channel - [Everything Digital Health](https://www.youtube.com/@EverythingDigitalHealth)
+I make videos about NHS technology and digital health reform on [Everything Digital Health](https://www.youtube.com/@EverythingDigitalHealth).
 
 ---
 
 ## What I do
 
-I'm an "NHS General Hacktitioner" - combining clinical work with building
-digital health infrastructure that actually works for clinicians and
-patients. I write code in Python, Ruby, JavaScript, and Rust, and spend
-a lot of time thinking about how we can make NHS technology better by
-building it openly. Deploying to the 'unique' NHS environment is a
-challenge, but it's one worth solving.
+I'm an "NHS General Hacktitioner" - combining clinical work with building digital health infrastructure that actually works for clinicians and patients. I write code in Python, Ruby, JavaScript, and Rust, and spend a lot of time thinking about how we can make NHS technology better by building it openly. Deploying to the 'unique' NHS environment is a challenge, but it's one worth solving.
 
 ## Key projects
 
-**[RCPCH Digital Growth Charts](https://github.com/rcpch/digital-growth-charts-server)**
+**[RCPCH Digital Growth Charts](https://github.com/rcpch/digital-growth-charts-server)** - Open source growth charts for children, deployed nationally across the UK and internationally.
 
-- Open source growth charts for children, deployed nationally across the
-  UK and internationally, replacing proprietary systems used by clinicians
-  seeing millions of children. Built with the RCPCH team and described in
-  a paper commissioned for
-  [Archives of Disease in Childhood](https://adc.bmj.com/).
+**[sct](https://github.com/pacharanero/sct)** - A local-first SNOMED CT toolchain that builds portable terminology artefacts from licensed RF2 releases.
 
-**[awesome-missing-nhs-things](https://github.com/pacharanero/awesome-missing-nhs-things)**
+**[gitehr](https://github.com/gitehr/gitehr)** - A database-free, patient-centric electronic health record designed without organisation-centricity or legacy constraints.
 
-- A curated list of digital infrastructure, interfaces, and data sources
-  that the NHS desperately needs but doesn't have yet.
+**[clincalc](https://github.com/pacharanero/clincalc)** - A fast, reliable, LLM-friendly clinical calculator CLI.
 
-**[gitehr](https://github.com/gitehr/gitehr)**
+**[nhsnumber](https://github.com/uk-fci/nhs-number)** - Tools for working with and validating NHS numbers.
 
-- An open source database-free patient-centric electronic health record.
-  Designed without organisation-centricity or legacy constraints, built to
-  be reliable, secure, and truly open.
+**[dsc](https://github.com/pacharanero/dsc)** - A CLI for managing Discourse instances over SSH or the REST API.
 
-**[oct (open clinical terminology)](https://github.com/pacharanero/oct)**
+**[greenbook](https://github.com/pacharanero/greenbook)** - A computable Green Book prototype for vaccination and immunisation.
 
-- An alternative approach to clinical terminology that avoids the
-  licensing restrictions and complexity of other terminologies. Medicine
-  needs terminologies that are actually open.
+**[clip-to-discourse](https://github.com/koloki/clip-to-discourse)** - Tools for bringing useful material into Discourse communities.
 
-**[sct](https://github.com/pacharanero/sct)**
+**[awesome-missing-nhs-things](https://github.com/pacharanero/awesome-missing-nhs-things)** - A curated list of digital infrastructure, interfaces, and data sources that the NHS needs but does not have yet.
 
-- A local-first SNOMED CT toolchain for building portable NDJSON, SQLite,
-  Parquet, FHIR terminology server, and cross-terminology mapping artefacts
-  from licensed RF2 releases.
+Also: **[oct](https://github.com/pacharanero/oct)**, an alternative approach to open clinical terminology.
 
 ## Community
 
-I run [Open Health Hub](https://openhealthhub.org) - a community forum
-for open, honest discussion about health tech. It's been running since
-[year] and has [n] members across the NHS and global health tech community.
+I run [Open Health Hub](https://openhealthhub.org), a community forum for open, honest discussion about health tech.
 
-I'm a founder of the [Clinical Digital Manifesto](https://clinicaldigitalmanifesto.org)
+I'm a founder of the [Clinical Digital Manifesto](https://clinicaldigitalmanifesto.org), a set of principles for how digital health infrastructure in the NHS should be built: open source, clinician involvement, and patient-centred design as non-negotiable requirements.
 
-- a set of principles for how digital health infrastructure in the NHS
-  should be built: open source, clinician involvement, and patient-centred
-  design as non-negotiable requirements.
-
-I'm active in the Discourse community - I self-host forums and contribute
-to Discourse Meta.
+I'm active in the Discourse community - I self-host forums and contribute to Discourse Meta.
 
 ## Find me elsewhere
 
@@ -78,5 +49,4 @@ to Discourse Meta.
 - 🦋 **Bluesky**: [@marcusbaw.com](https://bsky.app/profile/marcusbaw.com)
 - 💬 **Discourse Meta**: [@pacharanero](https://meta.discourse.org/u/pacharanero)
 
-If you're working on open health tech or trying to make NHS digital
-infrastructure better, get in touch.
+If you're working on open health tech or trying to make NHS digital infrastructure better, get in touch.
